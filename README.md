@@ -25,5 +25,5 @@ This project focuses on the core logic of match-3 games, without the complexity 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
-   cd snake-game
+   git clone https://github.com/yourusername/candy-crush.git
+   cd candy-crush
